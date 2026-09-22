@@ -28,9 +28,7 @@
 ```
 
 <img width="450" height="70" alt="freedom" src="https://github.com/user-attachments/assets/f62e549d-1516-411d-886f-57ea8ad4ffcd" />
-
 <img width="450" height="340" alt="freedom 2" src="https://github.com/user-attachments/assets/c17b53f4-5f27-4c3b-bfe4-80adae984708" />
-
 <img width="340" height="420" alt="freedom 3" src="https://github.com/user-attachments/assets/8ef2c0bc-a4d4-4d52-b8e3-b8c07c60e457" />
 
 ---
